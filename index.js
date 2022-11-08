@@ -1,7 +1,24 @@
+var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
+for (var i = 0; i<numberOfDrumButtons; i++) {
 
-document.querySelector("button").addEventListener("click", handleClick); //the event listener is what will be waiting to listen to what is selected (button)
+  document.querySelectorAll(".drum") [i].addEventListener ("click", function () {
+    alert("I got Clicked!");
 
-function handleClick() { //this function is the action (click) the event listener is waiting to hear before sending the alert
-  alert("I got Clicked!"); // it's the idea of passing a function as an input so that it can be called at a later time.
+  //What to do when click detected
+  });
+
 }
+
+// const buttons = document.querySelectorAll('.drum')
+// buttons.forEach(function (currentDrum){
+  // currentDrum.addEventListener('click', handleClick)
+// })
+
+
+
+
+
+
+//this function is the action (click) the event listener is waiting to hear before sending the alert
+ // it's the idea of passing a function as an input so that it can be called at a later time.
