@@ -13,16 +13,3 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
 
 // var audio = new Audio('sounds/tom-1.mp3');
 //    audio.play();
-
-
-// const buttons = document.querySelectorAll('.drum')
-// buttons.forEach(function (currentDrum){
-  // currentDrum.addEventListener('click', handleClick)
-// })
-
-
-
-
-
-
-//this functi
