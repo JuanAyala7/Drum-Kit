@@ -25,4 +25,4 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
 
 
 
-//this function is the action (click) the event listener is waiting to hear before sending the alert
+//this functi
