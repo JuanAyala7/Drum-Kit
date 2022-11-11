@@ -26,4 +26,3 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
 
 
 //this function is the action (click) the event listener is waiting to hear before sending the alert
- // it's the idea of passing a function as an input so that it can be called at a later time.
