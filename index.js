@@ -18,6 +18,15 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
        tom2.play();
        break;
 
+     case "s": 
+       var tom3 = new Audio('sounds/tom-3.mp3');
+       tom3.play();
+       break;
+
+     case "d": 
+       var tom4 = new Audio('sounds/tom-4.mp3');
+       tom4.play();
+       break;
 
       
 
