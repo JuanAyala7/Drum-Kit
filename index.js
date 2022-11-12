@@ -43,9 +43,8 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
        kick.play();
        break;
 
-      
 
-    default:
+    default: console.log(buttonInnerHTML);
       
   }
     
